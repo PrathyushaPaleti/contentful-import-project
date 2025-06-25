@@ -1,2 +1,2 @@
 # contentful-import-project
-Importing assets and data to contentful application
+Importing assets and content import to contentful application
