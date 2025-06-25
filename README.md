@@ -1,4 +1,4 @@
-# contentful-import-project
+# Content Import using CSV file in Contentful CMS
 Importing assets and content data import using CSV in contentful application
 
 #Create .env file with below format : 
